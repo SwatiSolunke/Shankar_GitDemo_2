@@ -1,4 +1,4 @@
 f1() 
 {
-    console.log('Shashwat Shankar Solunke')
+    console.log('Shashwat Solunke')
 }
